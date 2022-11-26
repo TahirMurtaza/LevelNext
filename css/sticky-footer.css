@@ -31,6 +31,6 @@ body {
 
 .container {
     width: auto;
-    max-width: 1140px;
+    max-width: 1140;
     padding: 0 15px;
 }
